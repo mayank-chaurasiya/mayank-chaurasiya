@@ -41,8 +41,7 @@ Welcome to my GitHub profile! I'm passionate about software development, especia
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/mayank-chaurasiya)
-- [Twitter](https://twitter.com/your_twitter_handle)
+- [LinkedIn](https://www.linkedin.com/in/mayank-kumar-anand/)
 
 ---
 
