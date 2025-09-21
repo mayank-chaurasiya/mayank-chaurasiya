@@ -69,5 +69,3 @@ I have strong skills in HTML, CSS, JavaScript, React, Node.js, Express, and Mong
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mayank-chaurasiya&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
